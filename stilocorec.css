@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;}
+    body{
+        background-image:url(fondo-inicio.png) ;
+        background-repeat:no-repeat ;
+    background-size: cover ;
+
+    }
+    #caja23{
+        
+    margin-right: 20px;
+       font-weight: 700;
+    
+    
+    margin-top: 20px;
+       float:right;
+       color: rgb(0, 0, 0);
+       text-decoration: none;
+    font-size: 40px;}
+
+    .x{
+      font-size: 200px;
+      text-align: center;
+    }
+
+
+   
+
+
+
+ 
+ 
+ #corector{
+  margin-top: 300px;
+ }
+ 
+ .joda{
+  margin-top: 300px;
+ }
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    /*#fol{
+      
+         display:block;
+         width: 30px;
+        font-weight: 700;
+        background-color:  rgb(8, 183, 196);
+        border-radius: 30px ;
+        padding: 10px 30px;
+        margin-left: 60px;
+        color: #fff;
+        text-decoration: none;
+        margin-top: 100px;
+        border-style:solid ;
+        border-color: #000;
+        
+    }*/
+
+
+
+    /* temas a aprender */
+
+    #temas{font-size: 60px;
+      margin-top: 40px;
+
+
+    }
+    .temas-ca{
+      margin-top: 0;
+      padding: 0;
+    }
+    #i{
+      margin-top: 0;
+      padding: 0;
+    }
+    #ii{
+      margin-top: 0;
+      padding: 0;
+    }
+    #iii{
+      margin-top: 0;
+      padding: 0;
+    }
+    #iv{
+      margin-top: 0;
+      padding: 0;
+    }
+    #i{
+      margin-top: 0;
+      padding: 0;
+    }
